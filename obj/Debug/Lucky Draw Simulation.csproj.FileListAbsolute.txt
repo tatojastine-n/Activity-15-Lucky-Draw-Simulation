@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Lucky Draw Simulation\bin\Debug\Lucky Draw Simulation.exe.config
+C:\Users\HP\source\repos\Lucky Draw Simulation\bin\Debug\Lucky Draw Simulation.exe
+C:\Users\HP\source\repos\Lucky Draw Simulation\bin\Debug\Lucky Draw Simulation.pdb
+C:\Users\HP\source\repos\Lucky Draw Simulation\obj\Debug\Lucky Draw Simulation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lucky Draw Simulation\obj\Debug\Lucky Draw Simulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lucky Draw Simulation\obj\Debug\Lucky Draw Simulation.exe
+C:\Users\HP\source\repos\Lucky Draw Simulation\obj\Debug\Lucky Draw Simulation.pdb
